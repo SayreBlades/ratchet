@@ -695,8 +695,8 @@ code {
 
 .component-example {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 17px;
-  line-height: 21px;
+  font-size: 15px;
+  line-height: 17px;
 }
 
 .component-example,
@@ -913,8 +913,8 @@ code {
 }
 .device {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 17px;
-  line-height: 21px;
+  font-size: 15px;
+  line-height: 17px;
   display: none;
 }
 
@@ -947,8 +947,8 @@ code {
     width: 320px;
     height: 569px;
     overflow: hidden;
-    font-size: 17px;
-    line-height: 21px;
+    font-size: 15px;
+    line-height: 17px;
     background-color: #fff;
   }
 
